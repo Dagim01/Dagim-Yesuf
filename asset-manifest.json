@@ -1,7 +1,7 @@
 {
   "main.css": "/Dagim-Yesuf/static/css/main.3c4adce8.chunk.css",
-  "main.js": "/Dagim-Yesuf/static/js/main.d73c6500.chunk.js",
-  "main.js.map": "/Dagim-Yesuf/static/js/main.d73c6500.chunk.js.map",
+  "main.js": "/Dagim-Yesuf/static/js/main.b74ba926.chunk.js",
+  "main.js.map": "/Dagim-Yesuf/static/js/main.b74ba926.chunk.js.map",
   "static/js/1.5d620098.chunk.js": "/Dagim-Yesuf/static/js/1.5d620098.chunk.js",
   "static/js/1.5d620098.chunk.js.map": "/Dagim-Yesuf/static/js/1.5d620098.chunk.js.map",
   "runtime~main.js": "/Dagim-Yesuf/static/js/runtime~main.e9dd4836.js",
@@ -15,6 +15,6 @@
   "static/media/index.css": "/Dagim-Yesuf/static/media/background.170b2bba.jpg",
   "static/css/main.3c4adce8.chunk.css.map": "/Dagim-Yesuf/static/css/main.3c4adce8.chunk.css.map",
   "index.html": "/Dagim-Yesuf/index.html",
-  "precache-manifest.458b30be876a958ea64e203b68f85e19.js": "/Dagim-Yesuf/precache-manifest.458b30be876a958ea64e203b68f85e19.js",
+  "precache-manifest.425ff8cc43c1024f9b85146e6c187a0f.js": "/Dagim-Yesuf/precache-manifest.425ff8cc43c1024f9b85146e6c187a0f.js",
   "service-worker.js": "/Dagim-Yesuf/service-worker.js"
 }
