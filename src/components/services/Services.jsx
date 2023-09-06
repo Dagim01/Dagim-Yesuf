@@ -20,7 +20,7 @@ const Services = () => {
 
             <li>
               <AiOutlineCheck className='service__list-icon'/>
-              <p>Intermediate Knowledge in Figma</p>
+              <p>Expert Knowledge in Figma</p>
             </li>
 
             <li>
@@ -68,7 +68,7 @@ const Services = () => {
 
             <li>
               <AiOutlineCheck className='service__list-icon'/>
-              <p>Aptitude to Learn</p>
+              <p>Graphics and Video Production</p>
             </li>
 
           </ul>
