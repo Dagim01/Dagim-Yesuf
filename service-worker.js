@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Dagim-Yesuf/precache-manifest.d39cd26f2d6af0ab7ceb17a34185f33d.js"
+  "/Dagim-Yesuf/precache-manifest.8dabd0fc7939198f88cd45f5cd0886fa.js"
 );
 
 workbox.clientsClaim();
