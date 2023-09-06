@@ -36,7 +36,7 @@ const About = () => {
               <small>5 Completed Projects</small>
             </article>
           </div>
-          <p>Hi, I'm Dagmawi Yesuf, a versatile software engineer and front-end developer with a passion for UX design, video production, graphics, and digital marketing. My career journey has led me to explore diverse facets of the digital world, culminating in a unique skill set that combines technical expertise with creative flair. 
+          <p>Hi, I'm Dagmawi Yesuf, a versatile software engineer and frontend developer with a passion for UX design, video production, graphics, and digital marketing. My career journey has led me to explore diverse facets of the digital world, culminating in a unique skill set that combines technical expertise with creative flair. 
           </p>
         <a href='#contact' className='btn btn-primary'>Let's talk</a>
         </div>
