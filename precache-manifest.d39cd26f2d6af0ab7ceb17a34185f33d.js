@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c1549bddbebe5ceca216",
+    "revision": "c00219647309fcac1880",
     "url": "/Dagim-Yesuf/static/css/main.5471a5de.chunk.css"
   },
   {
-    "revision": "c1549bddbebe5ceca216",
-    "url": "/Dagim-Yesuf/static/js/main.291384f0.chunk.js"
+    "revision": "c00219647309fcac1880",
+    "url": "/Dagim-Yesuf/static/js/main.3ececffd.chunk.js"
   },
   {
     "revision": "d99b0d326cd0637d429a",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/Dagim-Yesuf/static/media/background.170b2bba.jpg"
   },
   {
-    "revision": "2c6ce90bd63dbd2757290054afd03d67",
+    "revision": "46fec1e2651bf8d4e697d2a4f15c517e",
     "url": "/Dagim-Yesuf/index.html"
   }
 ];
