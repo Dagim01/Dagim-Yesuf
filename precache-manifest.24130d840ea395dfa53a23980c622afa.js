@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "0bfc3aa00a07830df64e",
+    "revision": "45cb4515d8981c944edb",
     "url": "/Dagim-Yesuf/static/css/main.93373883.chunk.css"
   },
   {
-    "revision": "0bfc3aa00a07830df64e",
-    "url": "/Dagim-Yesuf/static/js/main.0bfc3aa0.chunk.js"
+    "revision": "45cb4515d8981c944edb",
+    "url": "/Dagim-Yesuf/static/js/main.45cb4515.chunk.js"
   },
   {
     "revision": "918b26f4af715f1bf418",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/Dagim-Yesuf/static/js/runtime~main.e9dd4836.js"
   },
   {
-    "revision": "11a83b5a850d4511a282d4760d05fef8",
-    "url": "/Dagim-Yesuf/static/media/Resume.11a83b5a.pdf"
+    "revision": "14dee32d6ca11d9df894bf0b9ee4ad67",
+    "url": "/Dagim-Yesuf/static/media/Resume.14dee32d.pdf"
   },
   {
     "revision": "a6b75f7d392036599e0b9fa1159e02a8",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/Dagim-Yesuf/static/media/background.170b2bba.jpg"
   },
   {
-    "revision": "5895a41da9fcd731847e87a09e6bbece",
+    "revision": "2bb86ed458255e46619192a4a0da90ee",
     "url": "/Dagim-Yesuf/index.html"
   }
 ];
